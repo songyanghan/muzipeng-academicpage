@@ -1,33 +1,29 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Muzi Peng
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD student in Electrical Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Northeastern University
+  url: https://www.northeastern.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include image and video processing and deep learning.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Image and Video Processing
+- Deep Learning
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
   - course: B.Eng in Telecommunications Engineering
     institution: Nanjing University
     year: 2018 - 2022
@@ -42,7 +38,7 @@ social:
   link: 'mailto:peng.mu@northeastern.edu'
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=KBEc3pUAAAAJ&hl=zh-CN
 - icon: github
   icon_pack: fab
   link: https://github.com/muzi-peng
