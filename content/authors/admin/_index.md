@@ -18,7 +18,9 @@ bio: My research interests include image and video processing and deep learning.
 
 # Interests to show in About widget
 interests:
-- Image and Video Processing
+- Connected Autonomous Vehicles
+- Multi-Modal Fusion for Autonomous Driving
+- Spatiotemporal Modeling
 - Deep Learning
 
 # Education to show in About widget
@@ -57,7 +59,4 @@ email: ""
 highlight_name: true
 ---
 
-Hello! I am Muzi Peng. I am now a first-year PhD student in the  {{< staticref "https://www.northeastern.edu/" "newtab" >}} Department of Electrical and Computer Engineering {{< /staticref >}}, advised by Prof. Lili Su.
-
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Hello! I am Muzi Peng. I am now a first-year PhD student in the {{< staticref "https://ece.northeastern.edu/" "newtab" >}}Department of Electrical and Computer Engineering {{< /staticref >}}, advised by {{< staticref "https://lilisu3.sites.northeastern.edu/" "newtab" >}}Prof. Lili Su.
