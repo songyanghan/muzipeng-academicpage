@@ -19,7 +19,6 @@ bio: My research interests include image and video processing and deep learning.
 # Interests to show in About widget
 interests:
 - Connected Autonomous Vehicles
-- Multi-Modal Fusion for Autonomous Driving
 - Spatiotemporal Modeling
 - Deep Learning
 
