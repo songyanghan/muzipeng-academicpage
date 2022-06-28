@@ -25,9 +25,6 @@ interests:
 # Education to show in About widget
 education:
   courses:
-<!--   - course: PhD Student in Electrical Engineering
-    institution: Northeastern University
-    year: 2022 - Present -->
   - course: B.Eng in Telecommunications Engineering
     institution: Nanjing University
     year: 2018 - 2022
