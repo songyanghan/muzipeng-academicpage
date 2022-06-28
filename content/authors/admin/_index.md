@@ -27,7 +27,7 @@ education:
   courses:
   - course: PhD Student in Electrical Engineering
     institution: Northeastern University
-    year: 2022 - Present
+    year: 2022 - 2023
   - course: B.Eng in Telecommunications Engineering
     institution: Nanjing University
     year: 2018 - 2022
