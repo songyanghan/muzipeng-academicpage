@@ -14,7 +14,7 @@ organizations:
   url: https://www.northeastern.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include image and video processing and deep learning.
+bio: My research interests include connected autonomous vehicles, cyber-physical systems and deep learning.
 
 # Interests to show in About widget
 interests:
@@ -27,7 +27,7 @@ education:
   courses:
   - course: PhD Student in Electrical Engineering
     institution: Northeastern University
-    year: 2022 - 2023
+    year: 2022 - Present
   - course: B.Eng in Telecommunications Engineering
     institution: Nanjing University
     year: 2018 - 2022
