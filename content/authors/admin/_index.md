@@ -6,7 +6,7 @@ title: Muzi Peng
 superuser: true
 
 # Role/position/tagline
-role: PhD student in Electrical Engineering
+role: PhD Student in Electrical Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -19,11 +19,15 @@ bio: My research interests include image and video processing and deep learning.
 # Interests to show in About widget
 interests:
 - Connected Autonomous Vehicles
+- Cyber-Physical Systems
 - Deep Learning
 
 # Education to show in About widget
 education:
   courses:
+  - course: PhD Student in Electrical Engineering
+    institution: Northeastern University
+    year: 2022 - Present
   - course: B.Eng in Telecommunications Engineering
     institution: Nanjing University
     year: 2018 - 2022
