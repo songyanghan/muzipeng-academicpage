@@ -41,7 +41,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Me. This work is licensed under {license}'. <a target="_blank" href="https://icons8.com/icon/5Hv6SE3mbn4i/idea">Idea</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
     license:
       enable: true
       allow_derivatives: false
