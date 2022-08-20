@@ -58,4 +58,4 @@ email: ""
 highlight_name: true
 ---
 
-Hello! I am Muzi Peng. I am now a first-year PhD student in the {{< staticref "https://ece.northeastern.edu/" "newtab" >}}Department of Electrical and Computer Engineering {{< /staticref >}}, advised by {{< staticref "https://lilisu3.sites.northeastern.edu/" "newtab" >}}Prof. Lili Su.
+Hello! I am Muzi Peng. I am now a first-year PhD student in the {{< staticref "https://ece.northeastern.edu/" "newtab" >}}Department of Electrical and Computer Engineering{{< /staticref >}}, advised by {{< staticref "https://lilisu3.sites.northeastern.edu/" "newtab" >}}Prof. Lili Su.
