@@ -4,12 +4,12 @@
 widget: pages
 
 # This file represents a page section.
-headless: False
+headless: True
 
 # Order that this section appears on the page.
 weight: 90
 
-title: Publications
+title: Recent Publications
 subtitle: ''
 
 content:
