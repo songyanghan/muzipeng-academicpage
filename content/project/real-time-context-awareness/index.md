@@ -1,7 +1,6 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
-date: "2016-04-27T00:00:00Z"
+title: Real-time context awareness via resilient and privacy-preserving vehicle-vehicle coordination
+summary: Ongoing work
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
