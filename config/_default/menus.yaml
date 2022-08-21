@@ -8,10 +8,10 @@ main:
     url: '#about'
     weight: 10
   - name: Projects
-    url: '#project'
+    url: 'content/home/projects'
     weight: 20
   - name: Publications
-    url: '#publication'
+    url: 'content/home/publications'
     weight: 30
   - name: CV
     url: uploads/resume.pdf
